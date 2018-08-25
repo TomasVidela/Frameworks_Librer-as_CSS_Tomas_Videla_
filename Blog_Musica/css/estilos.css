@@ -1,0 +1,61 @@
+header{
+  background-color: #23cf5f;
+  height:120px;
+  padding: 10px;
+}
+body{
+  background-image:url(https://www.wallsauce.com/uploads/wallsauce-com/images/products/web/fotolia/large/38128128music-doodle.jpg);
+}
+
+
+.logo-marca{
+  height:60px;
+}
+
+.container-fluid{
+  height: 100%;
+  width: 10%;
+  padding: 5px;
+}
+
+.img-social{
+height:30px;
+border-radius: 5px;
+margin: 5px
+}
+
+nav{
+background-color: #6c757d;
+}
+
+.contenido-principal{
+  background-color:#F8F8F8;
+  height:100%;
+}
+
+.foto-card{
+  padding: 10px;
+  min-height: 150px !important;
+}
+
+.foto-card img{
+  border: 2px solid black;
+  min-height:150px;
+
+}
+
+.card-group{
+  margin-top: 10px ;
+}
+.card{
+  padding: 10px;
+}
+
+
+.busqueda{
+  margin-top: 10px;
+}
+
+.listado{
+  background-color:  #23cf5f !important;
+}

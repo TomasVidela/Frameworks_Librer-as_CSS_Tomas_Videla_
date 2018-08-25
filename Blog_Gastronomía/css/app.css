@@ -1,0 +1,101 @@
+.logo{
+  max-width:200px;
+}
+
+body {
+   background-image: url("http://www.larkinhospital.com/healthyliving/wp-content/uploads/2016/05/vegi.jpg");
+   background-color: #cccccc;
+}
+
+
+
+
+.barra-superior{
+  background-color: #EAE6DA ;
+  padding: 10px;
+}
+
+.franja{
+  background-color: #BD3D3A;
+  height: 5px;
+
+
+}
+
+.info-recetas{
+  background-color:hsl(205, 20%, 83%,0.8);
+  height: 1400px;
+
+
+}
+
+
+.blog{
+  background-color:#E1E8ED;
+  height: 100%;
+
+}
+
+.buscador{
+  padding-left: 0;
+}
+
+.boton-buscar{
+  padding-right: 0 !important;
+  width: 90px !important;
+}
+
+.foto-favoritos{
+  border: 4px solid white;
+  box-shadow:2px 2px 4px grey;
+}
+
+.menu-hostorial{
+  ackground-color: #E1E8ED;
+  border-radius: 10px;
+}
+
+.fotos-blog{
+  width: 200px;
+
+}
+
+h4{
+  color:#BD3D3A;
+}
+
+.cometarios-blog{
+  padding: 5px !important;
+  align-items: center;
+}
+
+.textarea-blog{
+  margin-left: 10px;
+}
+
+.boton-blog{
+  margin: 0;
+  height:50px;
+  width:50px;
+}
+
+.icono{
+  color: white !important;
+  height:40px !important;
+  width:40px;
+}
+
+.input-group-label{
+  height:39px !important;
+}
+
+.input-group-button{
+  height:39px !important;
+}
+
+
+.listado-recetario{
+  border-radius:5px;
+  margin:2px!important;
+  background-color:hsl(0, 0%, 100%,0.8) ;
+}

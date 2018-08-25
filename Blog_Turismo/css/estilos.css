@@ -1,0 +1,53 @@
+body{
+background-image:url(https://www.estravel.ee/wp-content/uploads/2014/12/paper-texture-background-.jpg);
+}
+
+
+.brand-logo {
+width: 30vw;
+min-width: 250px;
+margin: 10px;
+}
+
+.foto-nav{
+  width: 400px !important;
+}
+
+
+.collection-item{
+  color: grey !important;
+  padding: 10px !important;
+}
+.icono-redes{
+  min-width: 20px;
+  max-width: 30px;
+}
+
+
+.contenedor-principal{
+  background-color: #eceff1;
+  height: 100%;
+}
+
+.espacio{
+  margin-top: 10vw;
+}
+
+.materialboxed{
+  border: 4px solid white;
+  width: 100%;
+  height: 100%;
+  margin-top: 10px;
+}
+
+
+.comentarios{
+  padding: 20px;
+  margin: 0px !important;
+  height: 100% !important;
+
+}
+
+.iconos-comentarios{
+  color:#00bfa5 ;
+}
